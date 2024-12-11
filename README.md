@@ -1,1 +1,1 @@
-Weather Forcasting Mini project
+Weather Forcasting Major Project
